@@ -1,0 +1,14 @@
+{
+  "name": "projectonboarded",
+  "version": "1.0.0",
+  "description": "Dashboard of all project handled by team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B"
+  ],
+  "author": "Satya",
+  "license": "ISC"
+}
